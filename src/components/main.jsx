@@ -23,7 +23,7 @@ export const Main = () => {
   const [steps, setSteps] = React.useState([
     { label: "Step 1", isValid: undefined },
     { label: "Complete Profile", isValid: undefined },
-    { label: "Payment Details", isValid: undefined },
+    { label: "Step 3", isValid: undefined }
   ]);
 
   

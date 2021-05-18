@@ -13,9 +13,9 @@ export const AccountDetails = (
   <h1>Let's Complete Your Registration (Step 1)</h1>
     <Field
       key={'userName'}
-      id={'userName'}
-      name={'userName'}
-      label={'Username'}
+      id={'ID'}
+      name={'ID'}
+      label={'ID'}
       component={FormInput}
       
         />
